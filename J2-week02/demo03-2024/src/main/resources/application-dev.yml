@@ -1,0 +1,6 @@
+custom:
+  secret:
+    jwt:
+      secretKey: "local-demo03-development-secret-key"
+  site:
+    name: "My Site Dev"
